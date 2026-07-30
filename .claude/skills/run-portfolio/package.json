@@ -1,0 +1,9 @@
+{
+  "name": "run-portfolio-driver",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.62.0",
+    "playwright-core": "^1.62.0"
+  }
+}
