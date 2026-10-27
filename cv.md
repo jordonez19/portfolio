@@ -1,6 +1,6 @@
 JAVIER ORDOÑEZ
 Backend & Cloud Software Engineer | Automatización con Inteligencia Artificial
-+57 350 783 4094  •  xavidev19@gmail.com  •  Bogotá, Colombia  •  linkedin.com/in/javier-ordonez-a017b5a0  •  github.com/jordonez19
+xavidev19@gmail.com  •  Bogotá, Colombia  •  linkedin.com/in/javier-ordonez-a017b5a0  •  github.com/jordonez19
 RESUMEN
 Desarrollador Full Stack con más de 5 años de experiencia y más de 4 años especializado en backend con Node.js, TypeScript, Golang y Java, sobre arquitecturas cloud-native en AWS y GCP. En los últimos dos años he enfocado mi trabajo en la automatización impulsada por inteligencia artificial: integro modelos de lenguaje (OpenAI, Claude, Amazon Bedrock) en el día a día para construir agentes, bots y flujos de procesamiento inteligente de documentos, aplicando prompt engineering y tool calling directamente en producción. Experiencia sólida en el diseño de APIs REST, microservicios, arquitecturas serverless y sistemas event-driven, con dominio de React y Next.js en frontend, y de bases de datos como PostgreSQL, MySQL, MongoDB y DynamoDB. Acostumbrado a trabajar en equipos internacionales bajo metodologías ágiles, con inglés nivel C1.
 HABILIDADES TÉCNICAS
