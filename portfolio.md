@@ -1,7 +1,7 @@
 # Javier Ordoñez
 **Backend & Cloud Software Engineer | Automatización con Inteligencia Artificial**
 
-📍 Bogotá, Colombia | 📱 +57 350 783 4094 | ✉️ xavidev19@gmail.com  
+📍 Bogotá, Colombia | ✉️ xavidev19@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/javier-ordonez-a017b5a0) | 🐙 [GitHub](https://github.com/jordonez19)
 
 ---
